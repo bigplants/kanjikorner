@@ -62,4 +62,7 @@ docs/_build/
 #
 #
 xmltodict/*
-clean_up/*
+clean_up/
+
+# intelliJ
+.idea/
