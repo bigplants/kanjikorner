@@ -7,14 +7,14 @@ A spaced-repitition based web application for learning Japanese vocabulary using
 Create virtual environment where venv is the directory
 ```virtualenv venv ```
 
-```cd venv/bin/activate ```
+```source venv/bin/activate ```
 
 inside venv directory run:
 ``` git clone https://github.com/drewpterry/kanjikorner.git kanjisite ```
 
 
 inside kanjisite run:
-```pip install -r requirements.tx ```
+```pip install -r requirements.txt ```
 
 make sure to change your database settings in settings.py 
 
